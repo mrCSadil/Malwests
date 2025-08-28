@@ -46,4 +46,4 @@ Each folder in this repo contains:
 ---
 
 ## 📜 License  
-This repository is for **educational and research purposes only**. Use responsibly.  
+This repository is for **Ethical Hacking, educational and research purposes only**. Use responsibly.  
