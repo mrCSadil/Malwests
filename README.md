@@ -2,7 +2,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![offensive](https://img.shields.io/badge/Purpose-Offensive%20Redteam-red)
 
-<img src="./MalwestIcon.png" alt="Malwest Icon" width="150"/>
+<img src="./MalwestIcon.png" alt="Malwest Icon" width="350"/>
 ---
 
 **Malware + Tests** – My Malware Development and Testing Repository  
