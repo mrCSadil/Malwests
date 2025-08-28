@@ -3,8 +3,8 @@
 ![offensive](https://img.shields.io/badge/Purpose-Offensive%20Redteam-red)
 
 <img src="./MalwestIcon.png" alt="Malwest Icon" width="150"/>
+---
 
-# MalWests 🧪💻  
 **Malware + Tests** – My Malware Development and Testing Repository  
 
 Welcome to **MalWests**, a repository dedicated to exploring malware development for **Ethical Hacking, educational and research purposes only**.  
