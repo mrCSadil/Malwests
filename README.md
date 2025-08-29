@@ -1,6 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3.6%2B-blue)
+![C++](https://img.shields.io/badge/C++-17-blueviolet)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![offensive](https://img.shields.io/badge/Purpose-Offensive%20Redteam-red)
+![Offensive](https://img.shields.io/badge/Purpose-Offensive%20Redteam-red)
 
 <img src="./MalwestIcon.png" alt="Malwest Icon" width="300"/>
 
