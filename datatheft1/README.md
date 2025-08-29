@@ -1,4 +1,4 @@
-# Ransomware
+# Data Theft
 
 to create .exe :
 
@@ -9,13 +9,13 @@ cd C:\Users\AnalysisVM\Desktop
 ```
 - Using Microsoft's Compiler (cl.exe)
 ```powershell
-cl /EHsc /Fe:testransome.exe ransome.cpp
+cl /EHsc /Fe:testthief.exe thief.cpp
 ```
 OR
 
 - Using MinGW's Compiler (g++.exe):
 ```powershell
-g++ -o testransome.exe ransome.cpp -static
+g++ -o testthief.exe thief.cpp -static
 ```
 
 The -static flag with MinGW is important as it bundles necessary libraries into the EXE, so it doesn't need external DLLs to run on the Target VM.
